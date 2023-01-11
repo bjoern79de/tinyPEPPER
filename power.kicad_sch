@@ -1,0 +1,27 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid c6dcd432-3e8a-4f9e-9f58-b569daa9cfe2)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "5V" (shape output) (at 67.31 71.12 180)
+    (effects (font (size 1.524 1.524)) (justify right))
+    (uuid 55c2be88-0f56-44de-9ed8-d70e6f5b33b6)
+  )
+  (hierarchical_label "3.3V" (shape output) (at 67.31 76.2 180)
+    (effects (font (size 1.524 1.524)) (justify right))
+    (uuid 78977f8d-a4b9-49a0-9944-b520eda37e14)
+  )
+  (hierarchical_label "GND" (shape input) (at 66.04 55.88 180)
+    (effects (font (size 1.524 1.524)) (justify right))
+    (uuid d6d2d95d-f82f-4e1f-946c-dcc84c3a18eb)
+  )
+  (hierarchical_label "VBAT" (shape input) (at 66.04 52.07 180)
+    (effects (font (size 1.524 1.524)) (justify right))
+    (uuid f59a80d1-e5e5-41f7-8eb8-5242c502c65b)
+  )
+)
