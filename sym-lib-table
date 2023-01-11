@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name custom)(type Legacy)(uri ${KIPRJMOD}/kicad_misc/custom.lib)(options "")(descr ""))
+  (lib (name "custom")(type "Legacy")(uri "${KIPRJMOD}/kicad_misc/custom.lib")(options "")(descr ""))
+  (lib (name "MAX8815AETB_T")(type "KiCad")(uri "/Users/SGKROD4/Downloads/MAX8815AETB_T/MAX8815AETB_T.kicad_sym")(options "")(descr ""))
 )

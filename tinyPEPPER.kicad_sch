@@ -823,6 +823,15 @@
     (path "/00000000-0000-0000-0000-000057fcb86e"
       (reference "C1000") (unit 1) (value "47u") (footprint "Capacitors_SMD:C_0805")
     )
+    (path "/3fc6e526-3a3c-4a34-8308-04e953347e49/3bf447e6-b838-443f-ba7b-0ff0a7f2c52e"
+      (reference "C?") (unit 1) (value "10uF") (footprint "")
+    )
+    (path "/3fc6e526-3a3c-4a34-8308-04e953347e49/44c472e2-aab3-4b60-8f6c-06cac4d69012"
+      (reference "C?") (unit 1) (value "0.1uF") (footprint "")
+    )
+    (path "/3fc6e526-3a3c-4a34-8308-04e953347e49/6b2c36c2-3f29-4cf7-84dd-92698f2f8dd1"
+      (reference "C?") (unit 1) (value "22uF") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000057f7ac44/00000000-0000-0000-0000-000057f76a91"
       (reference "FET201") (unit 1) (value "IRLML6244") (footprint "TO_SOT_Packages_SMD:SOT-23")
     )
@@ -909,6 +918,9 @@
     )
     (path "/548f1ca0-1bbc-4fe3-9d3c-05bf73366ef9/bb8dd361-f36d-4a8f-aaab-17e3bc43efc5"
       (reference "J?") (unit 1) (value "Micro_SD_Card") (footprint "")
+    )
+    (path "/3fc6e526-3a3c-4a34-8308-04e953347e49/041844d7-92ba-43b7-9c1c-ec2948385687"
+      (reference "L?") (unit 1) (value "INDUCTOR") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000057f7ac44/00000000-0000-0000-0000-000057f78eab"
       (reference "OUT_A201") (unit 1) (value "TP") (footprint "custom:TP_PHASE_SMD")
@@ -1033,6 +1045,9 @@
     (path "/00000000-0000-0000-0000-000057fb3af9/00000000-0000-0000-0000-000057f787c4"
       (reference "R507") (unit 1) (value "10k") (footprint "custom:R_0402_CUSTOM")
     )
+    (path "/3fc6e526-3a3c-4a34-8308-04e953347e49/7d202869-0cc1-4928-ab2a-2586893f291d"
+      (reference "R?") (unit 1) (value "100") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000057f7ae6b"
       (reference "TP101") (unit 1) (value "TP") (footprint "custom:TP_powerpad")
     )
@@ -1078,8 +1093,8 @@
     (path "/548f1ca0-1bbc-4fe3-9d3c-05bf73366ef9/82b04b62-a3fa-4e38-ab66-3bbb25081990"
       (reference "U?") (unit 1) (value "STM32F405RGTx") (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
     )
-    (path "/3fc6e526-3a3c-4a34-8308-04e953347e49/cf6d4553-2f2e-4fbd-be7f-493fbe879623"
-      (reference "U?") (unit 1) (value "TPS54202DDC") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+    (path "/3fc6e526-3a3c-4a34-8308-04e953347e49/99e5b6dc-da08-4c46-971b-50c23a87c37c"
+      (reference "U?") (unit 1) (value "MAX8815AETB+T") (footprint "SON50P300X300X80-11N")
     )
   )
 )
