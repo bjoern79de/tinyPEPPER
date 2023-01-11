@@ -615,6 +615,10 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid a68ea0f1-a360-4b4b-929d-2b837e016f6d)
     )
+    (pin "VBUS" input (at 38.1 59.69 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 87c5a4f1-05c5-41f4-b194-d86aeb522ac1)
+    )
   )
 
   (sheet (at 63.5 81.28) (size 66.04 76.2) (fields_autoplaced)
@@ -823,6 +827,9 @@
     (path "/00000000-0000-0000-0000-000057fcb86e"
       (reference "C1000") (unit 1) (value "47u") (footprint "Capacitors_SMD:C_0805")
     )
+    (path "/3fc6e526-3a3c-4a34-8308-04e953347e49/158f45f9-10b1-4a6d-8f87-5e4fadc7cc75"
+      (reference "C?") (unit 1) (value "1uF") (footprint "")
+    )
     (path "/3fc6e526-3a3c-4a34-8308-04e953347e49/3bf447e6-b838-443f-ba7b-0ff0a7f2c52e"
       (reference "C?") (unit 1) (value "10uF") (footprint "")
     )
@@ -831,6 +838,12 @@
     )
     (path "/3fc6e526-3a3c-4a34-8308-04e953347e49/6b2c36c2-3f29-4cf7-84dd-92698f2f8dd1"
       (reference "C?") (unit 1) (value "22uF") (footprint "")
+    )
+    (path "/3fc6e526-3a3c-4a34-8308-04e953347e49/b6c2e52c-1c61-4c1c-a0f9-5b4019ce944a"
+      (reference "C?") (unit 1) (value "1uF") (footprint "")
+    )
+    (path "/3fc6e526-3a3c-4a34-8308-04e953347e49/8bc6cc23-bdd7-465d-9397-4a89e0758342"
+      (reference "D?") (unit 1) (value "DIODE") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000057f7ac44/00000000-0000-0000-0000-000057f76a91"
       (reference "FET201") (unit 1) (value "IRLML6244") (footprint "TO_SOT_Packages_SMD:SOT-23")
@@ -1083,6 +1096,9 @@
     )
     (path "/00000000-0000-0000-0000-000057fb3af9/00000000-0000-0000-0000-000057f76060"
       (reference "U501") (unit 1) (value "EFM8BB21") (footprint "custom:QFN20")
+    )
+    (path "/3fc6e526-3a3c-4a34-8308-04e953347e49/0895fa58-747e-4da1-ad23-c6fbae36577f"
+      (reference "U?") (unit 1) (value "RT9013-33GB") (footprint "SOT94P279X129-5N")
     )
     (path "/548f1ca0-1bbc-4fe3-9d3c-05bf73366ef9/58b9ced7-8dfd-4f1f-8b66-b2f1b799f8ac"
       (reference "U?") (unit 1) (value "ICM-20602") (footprint "Package_LGA:LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y")
