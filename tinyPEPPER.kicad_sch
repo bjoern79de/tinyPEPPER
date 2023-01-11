@@ -679,6 +679,10 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 46fe5276-61e1-4b0d-b930-0aba63775226)
     )
+    (pin "LED" output (at 63.5 152.4 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 8eec3205-e8ac-4771-95cd-4f1dc425ed2e)
+    )
   )
 
   (sheet_instances
@@ -929,6 +933,9 @@
     (path "/00000000-0000-0000-0000-000058466291"
       (reference "H4") (unit 1) (value "hole") (footprint "custom:mouting_hole")
     )
+    (path "/548f1ca0-1bbc-4fe3-9d3c-05bf73366ef9/738e864b-2adb-4de5-94f2-72e9cbe7ffe9"
+      (reference "J?") (unit 1) (value "TYPE-C-31-M-12") (footprint "HRO_TYPE-C-31-M-12")
+    )
     (path "/548f1ca0-1bbc-4fe3-9d3c-05bf73366ef9/bb8dd361-f36d-4a8f-aaab-17e3bc43efc5"
       (reference "J?") (unit 1) (value "Micro_SD_Card") (footprint "")
     )
@@ -970,9 +977,6 @@
     )
     (path "/00000000-0000-0000-0000-000057fb3af9/00000000-0000-0000-0000-000057f78ec9"
       (reference "OUT_C501") (unit 1) (value "TP") (footprint "custom:TP_PHASE_SMD")
-    )
-    (path "/548f1ca0-1bbc-4fe3-9d3c-05bf73366ef9/ddea7687-3cfe-4386-943f-a553ad180ea7"
-      (reference "P?") (unit 1) (value "USB_C_Plug") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000057f7ac44/00000000-0000-0000-0000-000057f79dfa"
       (reference "R201") (unit 1) (value "1k") (footprint "custom:R_0402_CUSTOM")

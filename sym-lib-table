@@ -1,5 +1,6 @@
 (sym_lib_table
-  (lib (name "custom")(type "Legacy")(uri "${KIPRJMOD}/kicad_misc/custom.lib")(options "")(descr ""))
+  (lib (name "custom")(type "Legacy")(uri "${KIPRJMOD}/kicad_misc/custom.lib")(options "")(descr "")(disabled))
   (lib (name "MAX8815AETB_T")(type "KiCad")(uri "${KIPRJMOD}/libs/MAX8815AETB_T/MAX8815AETB_T.kicad_sym")(options "")(descr ""))
   (lib (name "RT9013-33GB")(type "KiCad")(uri "${KIPRJMOD}/libs/RT9013-33GB/RT9013-33GB.kicad_sym")(options "")(descr ""))
+  (lib (name "TYPE-C-31-M-12")(type "KiCad")(uri "${KIPRJMOD}/libs/TYPE-C-31-M-12/TYPE-C-31-M-12.kicad_sym")(options "")(descr ""))
 )
